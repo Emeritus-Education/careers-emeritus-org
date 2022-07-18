@@ -1,0 +1,16 @@
+/* Admin Backend CSS */
+.wp-admin .ame-unclickable-menu-item {
+    pointer-events: none;
+}
+.wp-admin .wp-menu-separator#separator_DMwT0, .wp-admin .wp-menu-separator#separator_BEaCx {
+    height: 15px;
+}
+.wp-admin .wp-menu-separator#separator_BEaCx {
+    border-top: 1px solid #c2c2c259;
+    margin-top: 10px;
+}
+.wp-admin .wp-menu-separator#separator_DMwT0 {
+    border-bottom: 1px solid #c2c2c259;
+    margin-bottom: 10px;
+}
+/* Admin Backend CSS */
